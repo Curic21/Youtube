@@ -1,0 +1,24 @@
+/* 
+    Document   : style
+    Created on : 24-ene-2014, 9:53:08
+    Author     : al037342
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.col-xs-8>.row {
+    height: 100px;
+}
+.container{
+    width:100%;
+}
+#recom{
+    height: 500px;
+}
+
+div{
+}
