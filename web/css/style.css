@@ -17,8 +17,10 @@ body{
     width:100%;
 }
 #recom{
-    height: 500px;
+    height: 100px;
 }
 
-div{
+#busqueda{
+    top: 2%;
+    left:5%;
 }
