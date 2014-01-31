@@ -1,0 +1,28 @@
+#derecha{
+	display:none;
+}
+
+#contenedor{
+	width: 100%;
+}
+#izquierda{
+	width: 100%;
+}
+
+#comentarios{
+	width: 100%;;
+}
+#centro{
+	width: 100%;
+}
+
+#centro>img{
+	position: static;
+	float: left
+}
+
+#centro input{
+	position: static;
+	float: left;
+	margin-left: 2%;
+}
