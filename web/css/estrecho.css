@@ -24,5 +24,8 @@
 #centro input{
 	position: static;
 	float: left;
-	margin-left: 2%;
+	margin-left: 20%;
+}
+#search{
+    width: 30%;
 }
